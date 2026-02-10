@@ -1,0 +1,18 @@
+# flask
+# flask-cors
+# numpy
+# pandas
+# scikit-learn
+# joblib
+# tensorflow>=2.6
+# xgboost
+# lightgbm
+
+
+flask
+flask-cors
+tensorflow==2.15.0
+xgboost
+lightgbm
+joblib
+numpy
