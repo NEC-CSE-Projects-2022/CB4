@@ -4,7 +4,7 @@
 ## Team Info
 - 22471A05E1 — Adhikari Satish ( [LinkedIn](https://www.linkedin.com/in/adhikari-satish-gpm420?utm_source=share_via&utm_content=profile&utm_medium=member_android) )
 _Work Done:Problem identification, dataset collection, preprocessing, model design, ensemble architecture, implementation, results analysis, documentation.
-- 22471A05G8 — Tullibilli Lakshmi Siva Sai ( [LinkedIn]((https://www.linkedin.com/in/siva-sai-60b510369?utm_source=share_via&utm_content=profile&utm_medium=member_android)) )
+- 22471A05G8 — Tullibilli Lakshmi Siva Sai ( [LinkedIn]((https://www.linkedin.com/in/siva-sai-60b510369?utm_source=share_via&utm_content=profile&utm_medium=member_android) )
 _Work Done: Literature survey, exploratory data analysis (EDA), feature analysis, model training support, evaluation metrics
 
 - 22471A05I1 — Pallapu Harish ( [LinkedIn](https://www.linkedin.com/in/harish-pallapu-215990363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) )
